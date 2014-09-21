@@ -1,0 +1,4 @@
+Building sativacoin
+See doc/readme-qt.rst for instructions on building sativacoin QT.
+
+See doc/build-*.txt for instructions on building sativacoind.
